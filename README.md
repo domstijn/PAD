@@ -16,9 +16,9 @@ for finding a unique spot within the hash-map.
 
 ### Linked List
 - Singly linked list
-  - stack
+  - stack (push pop peek)
 - Doubly linked list
-  - queue
+  - queue (enqueu dequeue next-in-line)
 
 ## Combined
 ### hash-graph
